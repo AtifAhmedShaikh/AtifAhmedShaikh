@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**AtifAhmedShaikh/AtifAhmedShaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, It's me Atif Ahmed Shaikh </h1>
 
-Here are some ideas to get you started:
+<h3 align="center" > Dedicated & passionate MERN Developer, Expert in Javascript, passionate about programming and conquering new challenges. The art of problem solving, Seeking opportunities and contribute on complex and impactful projects. </h3>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'> 🔭 I’m currently working on MERN. </p>
+<p align='center'> 👯 I’m looking to collaborate with Fullstack developers. </p>
+<p align='center'> 💬 Ask me about  web development </p>
+<p align='center'> 📚 Constantly Improving my skills in web development.</p>
+<p align='center'>  🌐 Actively seeking exciting opportunities to contribute on projects..</p>
+<p align='center'>  ⚡ art of problem solving </p>
+<p align='center'>  📫 How to reach me **atifahmad2219@gmail.com** </p>
+
+<br>
+<br>
+<br>
+
